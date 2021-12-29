@@ -1,4 +1,4 @@
-Hey👋, I'm Anamika Singh!
+Hey👋, I'm Anamika Singh
 
 Hi, I’m Anamika Singh, a Data Science enthusiast 🚀 from India.
 
