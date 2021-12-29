@@ -7,5 +7,3 @@ Hi, I’m Anamika Singh, a Data Science enthusiast 🚀 from India.
 - 💞️ I’m looking to collaborate on some cool Data Analysis and Data Science projects
 - 📫 How to reach me: anamikasingh.as04@gmail.com
 
-Languages & Tools:
-
